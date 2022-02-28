@@ -98,7 +98,7 @@ a{
 }
 .basic{
   /* background-color: cornsilk; */
-  /* background-image: url("/images/photo.jpg"); */
+  /* background-image: url("/images/photo-min.jpg"); */
   background: url(/images/photo.jpg);
   background-repeat: no-repeat;
   background-size: 100% 680px;
